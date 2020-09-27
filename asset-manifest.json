@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dad-jokes-app/static/css/main.a4676005.chunk.css",
-    "main.js": "/dad-jokes-app/static/js/main.5b0dbea6.chunk.js",
-    "main.js.map": "/dad-jokes-app/static/js/main.5b0dbea6.chunk.js.map",
+    "main.css": "/dad-jokes-app/static/css/main.bd2e48f5.chunk.css",
+    "main.js": "/dad-jokes-app/static/js/main.1e99d6ec.chunk.js",
+    "main.js.map": "/dad-jokes-app/static/js/main.1e99d6ec.chunk.js.map",
     "runtime-main.js": "/dad-jokes-app/static/js/runtime-main.f279d699.js",
     "runtime-main.js.map": "/dad-jokes-app/static/js/runtime-main.f279d699.js.map",
     "static/js/2.33a592bb.chunk.js": "/dad-jokes-app/static/js/2.33a592bb.chunk.js",
     "static/js/2.33a592bb.chunk.js.map": "/dad-jokes-app/static/js/2.33a592bb.chunk.js.map",
     "index.html": "/dad-jokes-app/index.html",
-    "precache-manifest.9456e1b66141fc3aa34a79828000231b.js": "/dad-jokes-app/precache-manifest.9456e1b66141fc3aa34a79828000231b.js",
+    "precache-manifest.d583cddf26b7c41766d22b07820203ec.js": "/dad-jokes-app/precache-manifest.d583cddf26b7c41766d22b07820203ec.js",
     "service-worker.js": "/dad-jokes-app/service-worker.js",
-    "static/css/main.a4676005.chunk.css.map": "/dad-jokes-app/static/css/main.a4676005.chunk.css.map",
+    "static/css/main.bd2e48f5.chunk.css.map": "/dad-jokes-app/static/css/main.bd2e48f5.chunk.css.map",
     "static/js/2.33a592bb.chunk.js.LICENSE.txt": "/dad-jokes-app/static/js/2.33a592bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f279d699.js",
     "static/js/2.33a592bb.chunk.js",
-    "static/css/main.a4676005.chunk.css",
-    "static/js/main.5b0dbea6.chunk.js"
+    "static/css/main.bd2e48f5.chunk.css",
+    "static/js/main.1e99d6ec.chunk.js"
   ]
 }

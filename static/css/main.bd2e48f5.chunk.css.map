@@ -1,0 +1,1 @@
+{"version":3,"sources":["custom.css"],"names":[],"mappings":"AAAA,UACI,wBACJ,CAEA,UACI,qBACJ,CAEA,gBACI,yBACJ","file":"main.bd2e48f5.chunk.css","sourcesContent":[".black-bg {\r\n    background-color: #101010;\r\n}\r\n\r\n.white-bg {\r\n    background-color: #fff;\r\n}\r\n\r\n.container-joke {\r\n    height: calc(100vh - 47px);\r\n}"]}
