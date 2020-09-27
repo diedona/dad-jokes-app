@@ -5,3 +5,7 @@
 .white-bg {
     background-color: #fff;
 }
+
+.container-joke {
+    height: calc(100vh - 47px);
+}

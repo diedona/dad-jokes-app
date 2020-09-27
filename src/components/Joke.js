@@ -3,7 +3,7 @@ import React from 'react';
 const Joke = (props) => {
     return (
         <div className="bg-dark">
-            <div className="container vh-100">
+            <div className="container container-joke">
                 <div className="row col-12 text-white">
                     <div className="py-2">
                         <p className="lead">{props.currentJoke}</p>
